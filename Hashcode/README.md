@@ -13,7 +13,7 @@ g++ -std=c++17 solve.cpp
 
 To give permission to Hashcode.sh use the following command
 ```
-chmod +x Hashcode.sh
+chmod +x hashcode.sh
 ```
 
 To execute all the input files at once run the Hashcode.sh file using the following command
